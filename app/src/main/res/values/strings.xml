@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">G3an</string>
+    <string name="i_am_g3an">I am G3an</string>
+    <string name="dinner_is_ready">Dinner is ready</string>
+    <string name="i_am_shab3an">I am Shab3an</string>
+    <string name="Yummy">Yummy!</string>
+    <string name="dinner_is_not_ready">Dinner is not ready</string>
+</resources>
